@@ -50,3 +50,9 @@ Durante o desenvolvimento deste projeto, aprimorei meus conhecimentos em:
 - Organização de layout e hierarquia visual
 - Controle de versão com **Git e GitHub**
 - Planejamento de estrutura e identidade visual de portfólio
+
+---
+
+## 🚀 Visualização do Projeto
+
+🔗 [**Acesse meu portfólio online**](https://portfolio-teal-seven-r3o5olgh7y.vercel.app/)
